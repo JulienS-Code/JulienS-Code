@@ -20,6 +20,9 @@ I'm an IT student currently doing a apprentiship with [IDM Group](https://www.id
 <img align="left" width="42%" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienS-Code&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 <img alt="Most Used Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=JulienS-Code&theme=github_dark_dimmed&hide_border=false"/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JulienS-Code&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JulienS-Code&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
