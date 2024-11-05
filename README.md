@@ -3,14 +3,16 @@
 > This README file is in progress.
 
 ## About me 🙋‍♂️
-I'm a computer science student in a work-study program, with skills in web development and software programming.
-I'm proficient in web development like HTML, CSS, JavaScript, and PHP, and I also have a strong foundation in SQL, Python, Java, and C.
+I'm an IT student currently doing a work-linked placement with IDM Group. I have skills in web development and software programming. I'm something of a full-stack developer, developing in languages like HTML/CSS and JS for the front end, as well as PHP/SQL/Python/C and Java for the back end. 
+
+During this academic year I'm going to develop my skills further in C and JavaScript, but also in PHP and Java on the business side.
 
 ## My projects 🛠️
 
+- [x] 🏰 [Memphis UNESCO](https://perso-etudiant.u-pem.fr/~julien.synaeve/memphis) : In partnership with UNESCO and in groups of 4, we created a website to promote UNESCO world heritage sites, such as Memphis and its Necropolis, in Egypt.
 - [x] 💞 [SilverLove](https://perso-etudiant.u-pem.fr/~julien.synaeve/silverlove) : SilverLove is a dating site for seniors from the Old Dating project that we have carried out in teams of 4.
-- [x] 🏰 [Memphis UNESCO](https://perso-etudiant.u-pem.fr/~julien.synaeve/memphis) : In partnership with UNESCO, I am creating a website about Memphis and its Necropolis.
 - [ ] 🚀 StarTrip : A galactic travel web site optimizing interplanetary routes for fast, safe, and personalized journeys across the Star Wars universe.
+- [ ] 💰 BILLS : In groups of 5, we are creating an app that lets clients such as companies to manages their bills.
 
 ## My stats 📊
 <img align="left" width="47%" alt="Julien's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JulienS-Code&show_icons=true&theme=tokyonight"/>
