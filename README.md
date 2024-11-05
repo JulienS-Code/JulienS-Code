@@ -1,20 +1,23 @@
-# Hey, I'm Julien 👋
+
 > [!NOTE]
 > This README file is in progress.
+# 💫 About me
+I'm an IT student currently doing a work-linked placement with IDM Group. 
 
-## About me 🙋‍♂️
-I'm an IT student currently doing a work-linked placement with IDM Group. I have skills in web development and software programming. I'm something of a full-stack developer, developing in languages like HTML/CSS and JS for the front end, as well as PHP/SQL/Python/C and Java for the back end. 
+I'm currently working as a **Full Stack developer**
 
-During this academic year I'm going to develop my skills further in C and JavaScript, but also in PHP and Java on the business side.
+## 💻 Tech Stack 
 
-## My projects 🛠️
+
+
+## 🛠️ My projects
 
 - [x] 🏰 [Memphis UNESCO](https://perso-etudiant.u-pem.fr/~julien.synaeve/memphis) : In partnership with UNESCO and in groups of 4, we created a website to promote UNESCO world heritage sites, such as Memphis and its Necropolis, in Egypt.
 - [x] 💞 [SilverLove](https://perso-etudiant.u-pem.fr/~julien.synaeve/silverlove) : SilverLove is a dating site for seniors from the Old Dating project that we have carried out in teams of 4.
 - [ ] 🚀 StarTrip : A galactic travel web site optimizing interplanetary routes for fast, safe, and personalized journeys across the Star Wars universe.
 - [ ] 💰 BILLS : In groups of 5, we are creating an app that lets clients such as companies to manages their bills.
 
-## My stats 📊
+## 📊 My stats 
 <img align="left" width="47%" alt="Julien's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JulienS-Code&show_icons=true&theme=tokyonight"/>
 <img align="left" width="42%" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienS-Code&layout=compact&&langs_count=10&theme=tokyonight"/>
 
