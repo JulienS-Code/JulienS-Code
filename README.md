@@ -13,8 +13,8 @@ I'm proficient in web development like HTML, CSS, JavaScript, and PHP, and I als
 - [ ] 🚀 StarTrip : A galactic travel web site optimizing interplanetary routes for fast, safe, and personalized journeys across the Star Wars universe.
 
 ## My stats 📊
-<img align="left" width="47%" alt="Julien's GitHub stats" src="[Julien's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulienS-Code&show_icons=true&theme=tokyonight)"/>
-<img align="left" width="42%" alt="Most Used Languages" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=JulienS-Code&layout=compact&&langs_count=10&theme=tokyonight)"/>
+<img align="left" width="47%" alt="Julien's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JulienS-Code&show_icons=true&theme=tokyonight"/>
+<img align="left" width="42%" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienS-Code&layout=compact&&langs_count=10&theme=tokyonight"/>
 
 <!--
 **JulienS-Code/JulienS-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
