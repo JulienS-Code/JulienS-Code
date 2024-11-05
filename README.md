@@ -28,10 +28,6 @@ I'm an IT student currently doing a apprenticeship with [IDM Group](https://www.
 ![](https://github-contributor-stats.vercel.app/api?username=JulienS-Code&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 
-
-# 💻 Tech Stack:
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
 <!--
 **JulienS-Code/JulienS-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
