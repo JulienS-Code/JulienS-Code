@@ -16,7 +16,7 @@ I'm an IT student currently doing a apprentiship with [IDM Group](https://www.id
 - [ ] 💰 BILLS : In groups of 5, we are creating an app that lets clients such as companies to manages their bills.
 
 ## 📊 My stats 
-<img align="left" width="47%" alt="Julien's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JulienS-Code&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false"/>
+<img align="left" width="52%" alt="Julien's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JulienS-Code&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false"/>
 <img align="left" width="42%" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienS-Code&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 <img alt="Most Used Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=JulienS-Code&theme=github_dark_dimmed&hide_border=false"/>
 
