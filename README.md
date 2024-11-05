@@ -1,12 +1,12 @@
 # Hey, I'm Julien 👋
+> [!NOTE]
+> This README file is in progress.
 
 ## About me 🙋‍♂️
 I'm a computer science student in a work-study program, with skills in web development and software programming.
 I'm proficient in web development like HTML, CSS, JavaScript, and PHP, and I also have a strong foundation in SQL, Python, Java, and C.
 
 ## My projects 🛠️
-> [!NOTE]
-> Note that these projects are still in progress
 
 - [x] 💞 [SilverLove](https://perso-etudiant.u-pem.fr/~julien.synaeve/silverlove) : SilverLove is a dating site for seniors from the Old Dating project that we have carried out in teams of 4.
 - [x] 🏰 [Memphis UNESCO](https://perso-etudiant.u-pem.fr/~julien.synaeve/memphis) : In partnership with UNESCO, I am creating a website about Memphis and its Necropolis.
