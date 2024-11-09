@@ -1,6 +1,3 @@
-
-> [!NOTE]
-> This README file is in progress.
 # 💫 About me
 I'm an IT student currently doing a apprenticeship with [IDM Group](https://www.idmgroup.com/).<br><br>I'm currently working as a **Full Stack developer**
 
