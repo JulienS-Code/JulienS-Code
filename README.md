@@ -7,8 +7,8 @@ I'm an IT student currently doing a apprenticeship with [IDM Group](https://www.
 
 ## 🛠️ My projects
 
-- [x] 🏰 [Memphis UNESCO](https://perso-etudiant.u-pem.fr/~julien.synaeve/memphis) : In partnership with UNESCO and in groups of 4, we created a website to promote UNESCO world heritage sites, such as Memphis and its Necropolis, in Egypt.
-- [x] 💞 [SilverLove](https://perso-etudiant.u-pem.fr/~julien.synaeve/silverlove) : SilverLove is a dating site for seniors from the Old Dating project that we have carried out in teams of 4.
+- [x] 🏰 [Memphis UNESCO](https://memphis.julien-synaeve.fr/) : In partnership with UNESCO and in groups of 4, we created a website to promote UNESCO world heritage sites, such as Memphis and its Necropolis, in Egypt.
+- [x] 💞 [SilverLove](https://silverlove.julien-synaeve.fr/) : SilverLove is a dating site for seniors from the Old Dating project that we have carried out in teams of 4.
 - [ ] 🚀 StarTrip : A galactic travel web site optimizing interplanetary routes for fast, safe, and personalized journeys across the Star Wars universe.
 - [ ] 💰 BILLS : In groups of 5, we are creating an app that lets clients such as companies to manages their bills.
 
