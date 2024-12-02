@@ -9,8 +9,8 @@ I'm an IT student currently doing a apprenticeship with [IDM Group](https://www.
 
 - [x] 🏰 [Memphis UNESCO](https://memphis.julien-synaeve.fr/) : In partnership with UNESCO and in groups of 4, we created a website to promote UNESCO world heritage sites, such as Memphis and its Necropolis, in Egypt.
 - [x] 💞 [SilverLove](https://silverlove.julien-synaeve.fr/) : SilverLove is a dating site for seniors from the Old Dating project that we have carried out in teams of 4.
-- [ ] 🚀 StarTrip : A galactic travel web site optimizing interplanetary routes for fast, safe, and personalized journeys across the Star Wars universe.
-- [ ] 💰 BILLS : In groups of 5, we are creating an app that lets clients such as companies to manages their bills.
+- [x] 💰 [BILLS](https://bills.julien-synaeve.fr/) : In groups of 5, we are creating an app that lets clients such as companies to manages their bills.
+- [ ] 🚀 ORBIT : A galactic travel web site optimizing interplanetary routes for fast, safe, and personalized journeys across the Star Wars universe.
 
 ## 📊 My stats 
 <img align="left" width="52%" alt="Julien's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JulienS-Code&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false"/>
